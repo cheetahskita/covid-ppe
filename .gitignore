@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 research/
 ~$*
+*.csv
+*.xlsx
+*.log
