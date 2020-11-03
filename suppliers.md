@@ -1,6 +1,6 @@
 # Suppliers
 
-## Hilyard Health
+## Halyard Health
 
 Link: https://products.halyardhealth.com/infection-prevention.html
 
