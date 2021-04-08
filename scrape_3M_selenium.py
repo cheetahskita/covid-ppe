@@ -12,3 +12,6 @@ driver.get("https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Integrat
 time.sleep(2)
 product_button = driver.find_element_by_xpath('//div[@class="MMM--childcount js-hdrChildCnt"]')
 product_button.click()
+
+# 3M has security against Selenium, so this approach was abandoned. Instead, the page was manually downloaded and scraped for all the product links at once.
+# see scrape_3M_bsoup.ipnyb for remaining work
