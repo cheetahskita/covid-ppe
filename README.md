@@ -6,7 +6,7 @@ This project collects basic information of COVID PPE by scraping information fro
 
 In total, 500 unique pieces of equipment were submitted and accepted by Origin Trail from the following suppliers:
 
-## Halyard Health
+### Halyard Health
 
 Link: https://products.halyardhealth.com/infection-prevention.html
 
@@ -16,7 +16,7 @@ Supplies:
 * Facial/Respiratory Protection
 * Protective Apparel
 
-## 3M
+### 3M
 
 Link: [https://www.3m.com/3M/en_US/company-us/all-3m-products/~/All-3M-Products/Health-Care/Personal-Protective-Equipment/](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/All-3M-Products/Health-Care/Personal-Protective-Equipment/?N=5002385+8707795+8711017+8720539+3294857497&rt=r3)
 
